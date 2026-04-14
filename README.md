@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📄 My Resume
+
+[Download My Resume](https://github.com/Shriram1818/Shriram1818/raw/main/shrirampai_embedded_engineer.pdf)
