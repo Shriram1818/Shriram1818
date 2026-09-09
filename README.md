@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## 📄 My Resume
 
-[Download My Resume](https://github.com/Shriram1818/Shriram1818/raw/main/shrirampai_embedded_engineer.pdf)
+[Download My Resume](https://drive.google.com/file/d/11w0SvTqeW1bQ5raRdnwNmpCwwpR9-Z0_/view?usp=drive_link)
